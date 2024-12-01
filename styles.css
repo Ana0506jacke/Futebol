@@ -1,15 +1,15 @@
 body {
     color: green(0, 128, 32);
     background: yellow (2, 255, 23);
-    margin: 8px;
+    margin: 15px;
     font-family: " Actions Bot", sans-serif;
     margin-bottom: 100px;
 }
 
 header {
     border-bottom: solid 2px rgb(52, 298, 108);
-    padding: 22px;
-    font-size: 60px;
+    padding: 40px;
+    font-size: 80px;
     color:red (163, 228, 42);
 }
 
@@ -22,15 +22,15 @@ header {
 }
 
 .chamada-texto {
-    margin-right: 9%;
+    margin-right: 20%;
 }
 
 h1 {
-    font-size: 60px;
+    font-size: 80px;
 }
 
  p {
-font-size: 10px;
+font-size: 60px;
 }
 
 .categoria-videos {
