@@ -1,6 +1,6 @@
 body {
-    color:PURPLE;
-    background: rgb(47, 2, 255);
+    color:rgb(0, 128, 32);
+    background: rgb(2, 255, 23);
     margin: 8px;
     font-family: " Actions Bot", sans-serif;
     margin-bottom: 100px;
@@ -10,11 +10,11 @@ header {
     border-bottom: solid 2px rgb(52, 298, 108);
     padding: 22px;
     font-size: 60px;
-    color: rgb(113, 42, 228);
+    color: rgb(163, 228, 42);
 }
 
 .chamada {
-    background: rgb(213, 156, 180);
+    background: rgb(156, 213, 180);
     padding-bottom: 70px;
     padding-top: 80px;
     display: flex;
