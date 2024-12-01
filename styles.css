@@ -1,6 +1,6 @@
 body {
-    color:rgb(0, 128, 32);
-    background: rgb(2, 255, 23);
+    color: green(0, 128, 32);
+    background: yellow (2, 255, 23);
     margin: 8px;
     font-family: " Actions Bot", sans-serif;
     margin-bottom: 100px;
@@ -10,7 +10,7 @@ header {
     border-bottom: solid 2px rgb(52, 298, 108);
     padding: 22px;
     font-size: 60px;
-    color: rgb(163, 228, 42);
+    color:red (163, 228, 42);
 }
 
 .chamada {
@@ -52,7 +52,7 @@ font-size: 10px;
    
 .categoria-videos img:hover {
     opacity: 3.0;
-    border: 4px solid palegoldenrod;
+    border: 4px solid rgb(170, 238, 181);
 }
 
 .categoria h2 {
