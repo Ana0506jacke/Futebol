@@ -1,36 +1,36 @@
 body {
     color:PURPLE;
-    background:blueviolet;
-    margin: 0px;
-    font-family:" Actions Bot", sans-serif;
+    background: rgb(47, 2, 255);
+    margin: 8px;
+    font-family: " Actions Bot", sans-serif;
     margin-bottom: 100px;
 }
 
 header {
-    border-bottom: solid 2px rgb(42, 228, 98);
+    border-bottom: solid 2px rgb(52, 298, 108);
     padding: 22px;
-    font-size: 30px;
+    font-size: 60px;
     color: rgb(113, 42, 228);
 }
 
-    .chamada {
-    background: YELLOW(212, 213, 156);
+.chamada {
+    background: rgb(213, 156, 180);
     padding-bottom: 70px;
-    padding-top: 70px;
-    display: fex;
+    padding-top: 80px;
+    display: flex;
     justify-content: center;
-c
+}
 
 .chamada-texto {
-    margin-right: 6%;
+    margin-right: 9%;
 }
 
 h1 {
-     font-size: 19px;
-}    
+    font-size: 60px;
+}
 
  p {
-font-size: 19px;
+font-size: 10px;
 }
 
 .categoria-videos {
@@ -40,21 +40,21 @@ font-size: 19px;
 }
 
 .categoria {
-    padding-left: 20px;
-    padding-right: 20px;
+    padding-left: 30px;
+    padding-right: 40px;
     margin-top: 50px;
 }
 
 .categoria-videos img {
-    opacity: 0,7;
-    height: 201px; 
-}   
-    
-.categoria-videos img:hover {    
-    opacity: 2.0;
-    border: 3px solid palegoldenrod;
-}   
+    opacity: 0.9;
+    height: 201px;
+}
+   
+.categoria-videos img:hover {
+    opacity: 3.0;
+    border: 4px solid palegoldenrod;
+}
 
-.categoria h2 { 
+.categoria h2 {
     color: greenyellow;
-}      
+}
